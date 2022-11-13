@@ -28,9 +28,10 @@
   },
   "dependencies": {
     "@ignite-ui-thiagocdn/eslint-config": "*",
-    "@ignite-ui-thiagocdn/ts-config": "*",
     "@ignite-ui-thiagocdn/react": "*",
     "@ignite-ui-thiagocdn/tokens": "*",
+    "@ignite-ui-thiagocdn/ts-config": "*",
+    "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
