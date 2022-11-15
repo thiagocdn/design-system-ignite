@@ -7,7 +7,7 @@ import {
 } from '@ignite-ui-thiagocdn/react'
 
 export default {
-  title: 'Typography/TextInput',
+  title: 'Form/TextInput',
   component: TextInput,
   args: {},
   decorators: [
