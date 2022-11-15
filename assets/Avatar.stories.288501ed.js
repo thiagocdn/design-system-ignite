@@ -1,0 +1,2 @@
+import{A as t}from"./index.20b2642b.js";import"./index.3a2c9ec2.js";import"./iframe.d6acf21d.js";import"./index.dcab453c.js";import"./jsx-runtime.199d39b0.js";const c={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/thiagocdn.png",alt:"Thiago Cedran Santos"}},m={},n={args:{src:void 0}},p=["Primary","WithFallback"];export{m as Primary,n as WithFallback,p as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.288501ed.js.map
