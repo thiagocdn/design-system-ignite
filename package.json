@@ -5,9 +5,13 @@
   ],
   "scripts": {
     "dev": "turbo run dev --parallel",
-    "build": "turbo run build --parallel"
+    "build": "turbo run build --parallel",
+    "changeset": "changeset",
+    "version-packages": "changeset vesion",
+    "release": "turbo run build --filter=@ignite-ui-thiagocdn/docs && changeset publish"
   },
   "devDependencies": {
+    "@changesets/cli": "^2.25.2",
     "turbo": "^1.6.3"
   }
 }
